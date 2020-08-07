@@ -1,0 +1,4 @@
+lookup test {
+  lookupflag MarkAttachmentType [acute grave macron];
+  sub f i by f_i;
+} test;
